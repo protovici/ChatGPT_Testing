@@ -1,0 +1,4 @@
+Act as an expert data scientist and an ediscovery expert.
+
+Critical points for building a program for research, but a functional program to utilize large-language modeling, interface to ask questions on data, and other items to make the program as useful as possible.
+- 
