@@ -1,0 +1,19 @@
+Default prompt: This is the prompt that the chatbot uses when no specific prompt is provided. It helps assess the chatbot's general responsiveness and fallback behavior.
+
+Zero-shot prompts: Ask questions that are outside the specific training data provided to the model. These prompts evaluate the chatbot's ability to generalize and provide meaningful responses to unseen or unexpected queries.
+
+Few-shot prompts: Provide limited examples or instructions for a specific task or scenario. These prompts test the chatbot's ability to learn and adapt quickly, leveraging minimal information to generate accurate responses.
+
+Chain of thought prompts: Engage in multi-turn conversations where the chatbot needs to maintain context and coherence throughout the interaction. These prompts evaluate the chatbot's ability to retain information, understand user intent across multiple questions, and provide consistent and coherent responses.
+
+Zero-shot chain-of-thought prompts: Combine the challenges of zero-shot and chain of thought prompts, simulating multi-turn conversations with unseen scenarios. These prompts assess the chatbot's ability to handle contextual understanding and coherence in unfamiliar contexts.
+
+Adversarial prompts: Construct queries or inputs that intentionally challenge the chatbot, such as biased instructions, misleading information, or harmful scenarios. These prompts help identify vulnerabilities and areas for improvement.
+
+Exploratory prompts: Ask open-ended or creative queries to encourage the chatbot to generate imaginative or speculative responses. These prompts test the chatbot's ability to think creatively and generate original ideas.
+
+Error analysis prompts: Craft inputs that simulate specific types of errors or common pitfalls to identify patterns of mistakes or areas where the chatbot struggles. These prompts help improve the chatbot's performance by addressing recurring issues.
+
+Contextual prompts: Provide additional context along with the question to guide the chatbot's response. This helps assess the chatbot's ability to incorporate and leverage context effectively.
+
+By incorporating these critical prompts into your testing process, you can evaluate various aspects of the chatbot's performance, identify strengths and weaknesses, and refine its behavior for better user experiences.
